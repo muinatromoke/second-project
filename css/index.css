@@ -1,0 +1,33 @@
+*{
+/**
+margin-top: 0pt;
+margin-bottom: 0pt;
+margin-right: 0pt;
+margin-left: 0pt;**/
+margin: 0pt;
+}
+.mt{
+    margin-top: 50pt;
+}
+.mb{
+    margin-bottom: 50pt;
+}
+.mr{
+    margin-right: 50pt;
+}
+.ml{
+    margin-left: 50pt;
+}
+body{
+    background-color: skyblue; color: white;
+    
+    padding: 20px;
+    width: 530px;
+}
+.romola{
+    background-color: navy;color: white;
+}
+.rl{
+    background-color: pink;color: black;
+}
+
